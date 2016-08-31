@@ -1,0 +1,14 @@
+{
+    "name": "cyclegtx/ceditable",
+    "description": "Editable input field",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Han Li",
+            "email": "83872309@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
